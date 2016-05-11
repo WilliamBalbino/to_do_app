@@ -10,6 +10,10 @@
             android:id="@+id/nav_done"
             android:icon="@drawable/ic_done"
             android:title="Done List" />
+        <item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_notes"
+            android:title="Notes"/>
 
     </group>
 
